@@ -1,5 +1,13 @@
 # @medusajs/types
 
+## 2.1.2
+
+### Patch Changes
+
+- [#10499](https://github.com/medusajs/medusa/pull/10499) [`16d27ea6e4c2e4290820fe2328f08557534fcb8f`](https://github.com/medusajs/medusa/commit/16d27ea6e4c2e4290820fe2328f08557534fcb8f) Thanks [@thetutlage](https://github.com/thetutlage)! - Feat/customer dml
+
+- [#10551](https://github.com/medusajs/medusa/pull/10551) [`885c82ded63e504739bf39a113f820c87c9e2d52`](https://github.com/medusajs/medusa/commit/885c82ded63e504739bf39a113f820c87c9e2d52) Thanks [@thetutlage](https://github.com/thetutlage)! - feat: add support for float properties
+
 ## 2.1.1
 
 ### Patch Changes
